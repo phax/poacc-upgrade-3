@@ -2,5 +2,6 @@ target
 *.html
 *.pdf
 .idea
-/.project
-/.settings/
+.project
+.settings/
+.asciidoctorconfig.adoc
